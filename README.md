@@ -11,8 +11,8 @@ Final Year Computer Science & Engineering Student | Aspiring Software Developer
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_GFG_URL">GeeksforGeeks</a> •
+  <a href="YOUR_LINKEDIN_URL">https://www.linkedin.com/in/prince-singh610/</a> •
+  <a href="YOUR_GFG_URL">https://www.geeksforgeeks.org/profile/princeks0xfk</a> •
   <a href="YOUR_GITHUB_URL">GitHub</a>
 </p>
 
