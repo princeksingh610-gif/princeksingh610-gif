@@ -1,46 +1,70 @@
-# Hi, I'm Prince Kumar Singh 👋
+<div align="center">
 
-### Aspiring Software Developer | Java • DSA • React.js
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Final+Year+CSE+Student;Java+%7C+DSA+%7C+React.js;450%2B+DSA+Problems+Solved;Building+Web+Applications)](https://git.io/typing-svg)
 
-I'm a Computer Science undergraduate passionate about **problem solving, software development, and building web applications**.
+</div>
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Primary Language: **Java**
-- 🧠 **450+ DSA problems solved on GeeksforGeeks**
-- 🌐 Building web applications with **React.js & JavaScript**
-- 🚀 Currently strengthening my **DSA and full-stack development** skills
-- 🛠️ Interested in Software Development and Backend Development
+<h1 align="center">Hi 👋, I'm Prince Kumar Singh</h1>
+
+<h3 align="center">
+Final Year Computer Science & Engineering Student | Aspiring Software Developer
+</h3>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_GFG_URL">GeeksforGeeks</a> •
+  <a href="YOUR_GITHUB_URL">GitHub</a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+- 🎓 Final Year **Computer Science & Engineering** student
+- 💻 Primary programming language: **Java**
+- 🧠 Solved **450+ DSA problems** on GeeksforGeeks
+- 🌐 Building web applications using **React.js & JavaScript**
+- 📚 Strong interest in **Data Structures & Algorithms**
+- 🚀 Currently learning **Backend & Full-Stack Development**
+- 💼 Preparing for **Software Development placements**
+- 🔨 I enjoy turning ideas into practical projects
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+---
 
-### Web Development
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 💻 Languages
 
-### Tools
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
 ## 🧠 Data Structures & Algorithms
 
-I regularly practice DSA using **Java**.
+I regularly practice **Data Structures & Algorithms using Java**.
 
-### Topics I've worked on
+### Topics I've Practiced
 
 - Arrays
 - Strings
@@ -53,11 +77,12 @@ I regularly practice DSA using **Java**.
 - Linked Lists
 - Stacks & Queues
 - Binary Search Trees
+- Prefix Sum
 - Problem Solving
 
 ### 📊 Problem Solving
 
-**450+ problems solved on GeeksforGeeks**
+🏆 **450+ Problems Solved on GeeksforGeeks**
 
 ---
 
@@ -69,11 +94,13 @@ A responsive music streaming web application built using **HTML, CSS and JavaScr
 
 **Features:**
 
-- Play / Pause
-- Next / Previous track
-- Audio API integration
-- Dynamic DOM manipulation
-- Responsive UI
+- ▶️ Play / Pause
+- ⏭️ Next / Previous Track
+- 🎵 Audio API Integration
+- 🔄 Dynamic DOM Manipulation
+- 📱 Responsive UI
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
 
 ---
 
@@ -81,54 +108,29 @@ A responsive music streaming web application built using **HTML, CSS and JavaScr
 
 A React-based Single Page Application demonstrating modern client-side routing.
 
-**Technologies:**
-
-`React.js` `React Router DOM` `JavaScript` `Tailwind CSS`
-
 **Features:**
 
-- Client-side routing
-- Nested routes
-- Dynamic URL parameters
-- Reusable components
-- React Hooks
-- Data loading
+- 🔀 Client-side routing
+- 📂 Nested routes
+- 🔗 Dynamic URL parameters
+- ♻️ Reusable components
+- ⚛️ React Hooks
+- 📡 Data loading
+
+**Tech:** `React.js` `React Router DOM` `JavaScript` `Tailwind CSS`
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Data Structures & Algorithms
-- React.js
-- Backend Development
-- REST APIs
-- Full-Stack Web Development
+```text
+DSA
+ ├── Advanced Problem Solving
+ ├── Trees & Graphs
+ └── Optimization
 
----
-
-## 🎯 2026 Goals
-
-- 🚀 Strengthen DSA and problem-solving skills
-- 💻 Build more real-world projects
-- ⚛️ Become stronger with React.js
-- 🔧 Learn backend development
-- 📈 Improve GitHub and open-source contributions
-- 💼 Prepare for Software Development placements
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:** princeksingh610@gmail.com
-
-🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/prince-singh610/)
-
-💻 **GitHub:** [GitHub](https://github.com/princeksingh610-gif)
-
-🧠 **GeeksforGeeks:** [GeeksforGeeks](https://www.geeksforgeeks.org/profile/princeks0xfk)
-
----
-
-⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Solving 🚀**
+Web Development
+ ├── React.js
+ ├── Backend Development
+ ├── REST APIs
+ └── Full-Stack Development
